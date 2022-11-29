@@ -185,9 +185,9 @@ ALTER TABLE ONLY public.services ALTER COLUMN service_id SET DEFAULT nextval('pu
 -- Data for Name: services; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.services VALUES (1, 'Hair Cut');
-INSERT INTO public.services VALUES (2, 'Hair Dye');
-INSERT INTO public.services VALUES (3, 'Hair Braid');
+INSERT INTO public.services VALUES (1, 'Hair-Cut');
+INSERT INTO public.services VALUES (2, 'Hair-Dye');
+INSERT INTO public.services VALUES (3, 'Hair-Braid');
 
 
 --
