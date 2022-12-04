@@ -9,3 +9,6 @@ Create a database and insert data using a bash script. Then complete a bunch of 
 
 ## Project 3 - Salon Appointment Scheduler
 Create a database for a solon. Write a bash script to schedule appointments.
+
+## Project 4 - Periodic Table Database
+Fix a postgres database of periodic table data. Write a script to query info from the database. Use git.
