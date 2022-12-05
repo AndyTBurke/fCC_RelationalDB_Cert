@@ -12,3 +12,6 @@ Create a database for a solon. Write a bash script to schedule appointments.
 
 ## Project 4 - Periodic Table Database
 Fix a postgres database of periodic table data. Write a script to query info from the database. Use git.
+
+## Project 5 - Number Guessing Game
+Create a number guessing script using bash. Create an posgres database to store user information. Use git.
